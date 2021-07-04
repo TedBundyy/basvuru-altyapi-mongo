@@ -43,4 +43,9 @@
 ```
 
 # DIKKAT!
-<h3>Bu altyapı <a href="https://discord.com/users/730448609790787585">Niyuki <a href="https://discord.com/users/841049987855941714">Ted Bundy</a> tarafından <a href="https://discord.gg/serendiasquad/"> </a> için paylaşılmıştır değiştirilip başka sunucu/kişi adına paylaşılıması yasaktır!</h3>
+<p align="center">
+  <a href="https://discord.gg/QXghTbvpGU"><img src="https://img.shields.io/badge/Serendia%20Squad%20-006400.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/841049987855941714"><img src="https://img.shields.io/badge/Niyuki%20-808080.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/tedbundyy"><img src="https://img.shields.io/badge/Github%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</a>
+</p>
