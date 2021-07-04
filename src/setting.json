@@ -1,0 +1,39 @@
+{
+    "panel":{  
+    "token": "Token",
+    "owner": ["owner id",""],
+    "prefix": "!",
+    "mongopath": "mongo connect link",
+    "language": "tr"
+    },
+
+    "kanalar": {
+        "komutlog": "komutlog id",
+        "seskanali": "botun girecegi ses kanali",
+        "basvurukanal": "basvurunun yapildigi kanal",
+        "basvurulog": "basvuru log id"
+        "kabulred": "basvuru red kabul id"
+    },
+
+    "basvuru": {
+        "role": ["",""],
+        "yetkili": ["yetkili id"]
+        "invitestaff": ["verecegi yetki 1","verecegi yetki 2"],
+        "voicestaff": ["verecegi yetki 1","verecegi yetki 2"],
+        "chatstaff": ["verecegi yetki 1","verecegi yetki 2"],
+        "registerstaff": ["verecegi yetki 1","verecegi yetki 2"]
+    },
+
+    "tag":{
+    "needed": false,
+    "tagrol": "tag alinca verilen rol"
+    },
+
+    "emojiler":{
+        "tikemoji": "emoji",
+        "tikemojiekle": "emoji id",
+
+        "carpiemoji": "emoji",
+        "carpiemojiekle": "emoji id"
+    }
+}
