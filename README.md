@@ -43,6 +43,8 @@
 ```
 
 # DIKKAT!
+<h3>Bu altyapı <a href="https://discord.com/users/730448609790787585%22%3ENiyuki</a> & <a href="https://discord.com/users/841049987855941714%22%3ETed Bundy</a> tarafından <a href="https://discord.gg/serendiasquad/%22%3E </a> için paylaşılmıştır değiştirilip başka sunucu/kişi adına paylaşılıması yasaktır!</h3>
+
 <p align="center">
   <a href="https://discord.gg/QXghTbvpGU"><img src="https://img.shields.io/badge/Serendia%20Squad%20-006400.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://discord.com/users/841049987855941714"><img src="https://img.shields.io/badge/Niyuki%20-808080.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
