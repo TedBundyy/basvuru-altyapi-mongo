@@ -43,4 +43,4 @@
 ```
 
 # DIKKAT!
-<h3>Bu altyapı <a href="https://discord.com/users/730448609790787585">Niyuki</a> & <a href="https://discord.com/users/841049987855941714">Ted Bundy</a> tarafından <a href="https://discord.gg/serendiasquad/"> </a> için paylaşılmıştır değiştirilip başka sunucu/kişi adına paylaşılıması yasaktır!</h3>
+<h3>Bu altyapı <a href="https://discord.com/users/730448609790787585">Niyuki <a href="https://discord.com/users/841049987855941714">Ted Bundy</a> tarafından <a href="https://discord.gg/serendiasquad/"> </a> için paylaşılmıştır değiştirilip başka sunucu/kişi adına paylaşılıması yasaktır!</h3>
