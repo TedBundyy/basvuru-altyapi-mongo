@@ -1,24 +1,24 @@
 {
     "panel":{  
-    "token": "Token",
-    "owner": ["owner id",""],
+    "token": "OTc3OTE5MDEwNTAwOTMxNjU1.Ge7uxX.ME5ORMsFThN5hNw6WqdLYva4-p6YwyMNkmWOlk",
+    "owner": ["317910151241924608",""],
     "prefix": "!",
     "mongopath": "mongo connect link",
     "language": "tr"
     },
 
     "kanalar": {
-        "komutlog": "komutlog id",
-        "seskanali": "botun girecegi ses kanali",
-        "basvurukanal": "basvurunun yapildigi kanal",
-        "basvurulog": "basvuru log id"
-        "kabulred": "basvuru red kabul id"
+        "komutlog": "979116789743120384",
+        "seskanali": "979116836727713794",
+        "basvurukanal": "979117960553701406",
+        "basvurulog": "979118023308902480",
+        "kabulred": "979118134101442580"
     },
 
     "basvuru": {
-        "role": ["",""],
-        "yetkili": ["yetkili id"]
-        "invitestaff": ["verecegi yetki 1","verecegi yetki 2"],
+        "role": ["879933801957052426",""],
+        "yetkili": ["979116106411311124"],
+        "invitestaff": ["979118271502618636"],
         "voicestaff": ["verecegi yetki 1","verecegi yetki 2"],
         "chatstaff": ["verecegi yetki 1","verecegi yetki 2"],
         "registerstaff": ["verecegi yetki 1","verecegi yetki 2"]
@@ -31,9 +31,9 @@
 
     "emojiler":{
         "tikemoji": "emoji",
-        "tikemojiekle": "emoji id",
+        "tikemojiekle": "<:empty:972885593321246760>",
 
         "carpiemoji": "emoji",
-        "carpiemojiekle": "emoji id"
+        "carpiemojiekle": "<:empty:972885593321246760>"
     }
 }
