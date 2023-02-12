@@ -13,7 +13,7 @@
     "author": "Niyuki",
     "license": "ISC",
     "dependencies": {
-        "@iamtraction/google-translate": "^1.1.2",
+        "@iamtraction/google-translate": "^2.0.1",
         "ascii-table": "0.0.9",
         "discord-buttons": "^4.0.0",
         "discord.js": "^12.5.3",
